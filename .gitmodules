@@ -1,0 +1,3 @@
+[submodule "plutus-simple-model"]
+	path = plutus-simple-model
+	url = https://github.com/mlabs-haskell/plutus-simple-model.git
