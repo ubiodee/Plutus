@@ -7,3 +7,6 @@
 [submodule "plutus-scripts"]
 	path = plutus-scripts
 	url = https://github.com/catch-21/plutus-scripts.git
+[submodule "plutus-apps"]
+	path = plutus-apps
+	url = https://github.com/IntersectMBO/plutus-apps.git
