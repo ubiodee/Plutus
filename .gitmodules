@@ -10,3 +10,6 @@
 [submodule "plutus-apps"]
 	path = plutus-apps
 	url = https://github.com/IntersectMBO/plutus-apps.git
+[submodule "plutus-code"]
+	path = plutus-code
+	url = https://github.com/danebulat/plutus-code.git
